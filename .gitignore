@@ -1,0 +1,8 @@
+# virtualenv
+/venv
+
+# python cache
+__pycache__/
+
+# Django's static file
+static/
